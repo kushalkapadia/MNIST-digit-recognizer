@@ -12,8 +12,15 @@ Some detailing about the Project here:
 
 ![image](https://user-images.githubusercontent.com/33611104/55599031-a15c9700-570a-11e9-9677-d7cf6b8c7e22.png)
 
-## CNN Architechture:
+## Sequential CNN Architechture:
 
 Input -> [[Conv2D->ReLu]*2 -> MaxPool2D -> Dropout]*2 -> Flatten -> Dense -> Dropout -> Output
+
+loss='categorical_crossentropy'
+optimizer='adadelta'
+metrics=['accuracy']
+
+## Xgb details:
+
 
 
