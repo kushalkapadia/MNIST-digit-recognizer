@@ -17,7 +17,9 @@ Some detailing about the Project here:
 Input -> [[Conv2D->ReLu]*2 -> MaxPool2D -> Dropout]*2 -> Flatten -> Dense -> Dropout -> Output
 
 loss='categorical_crossentropy'
+
 optimizer='adadelta'
+
 metrics=['accuracy']
 
 ## Xgb details:
