@@ -22,7 +22,7 @@ optimizer='adadelta'
 
 metrics=['accuracy']
 
-## Xgb details:
+
 
 
 
