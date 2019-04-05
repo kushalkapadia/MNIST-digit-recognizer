@@ -22,7 +22,7 @@ optimizer='adadelta'
 
 metrics=['accuracy']
 
-
+# Overall accuracy of 98.50% is achieved using Xgb to classify handwritten digits from 0 - 9.
 
 
 
