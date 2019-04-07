@@ -1,6 +1,6 @@
 # MNIST-digit-recognizer
 
-## Still ongoing!
+## Still ongoing!!
 
 Here is what I'm upto:
 
